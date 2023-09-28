@@ -21,7 +21,7 @@ fun main() {
 
 //    Task Five: Store and add two integer numbers in kotlin
 
-    println("Enter to number to get their sum")
+    println("Enter two numbers to get their sum")
     val first = readLine()!!
     val second = readLine()!!
 
